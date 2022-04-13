@@ -27,3 +27,8 @@ wget https://github.com/ZPavlo/Tutorials/raw/master/Git_cookbook.ipynb
 ```
 git config receive.denyCurrentBranch updateInstead
 ```
+
+Клонувати через ssh
+```
+git clone ssh://git@mydomain.com:[port]/gitolite-admin
+```
